@@ -1,9 +1,4 @@
-
-### Hello World! 👋
-
-Hi, I'm [seth-shi(施国鹏)](https://github.com/seth-shi), a background developer.
-
-💬 Ask me about anything [here](https://github.com/seth-shi/seth-shi/issues).
+Hi, I'm [seth-shi(施国鹏)](https://github.com/seth-shi), a Web developer.
 
 ****
 
