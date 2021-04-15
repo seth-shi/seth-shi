@@ -1,5 +1,6 @@
-Hi, I'm [seth-shi(施国鹏)](https://github.com/seth-shi), a Web developer.
-
+Hi, I'm [seth-shi(施国鹏)](https://github.com/seth-shi), 
+a Web developer.
+interested in @php, @golang and  laravel 🧙‍♂️
 ****
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
